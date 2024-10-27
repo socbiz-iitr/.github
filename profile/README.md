@@ -1,6 +1,16 @@
 
 ## The Society of Business at IIT Roorkee
 
+### Repository Overview
+
+| Repository | Description |
+|------------|-------------|
+| [Analytics](https://github.com/socbiz-iitr/analytics24-25) | Resources and projects for Analytics team (2024-25) |
+| [Consulting](https://github.com/socbiz-iitr/consult24-25) | Consulting projects and resources for 2024-25 |
+| [Product Management](https://github.com/socbiz-iitr/product24-25) | Product Management learning resources and case studies |
+| [Resources](https://github.com/socbiz-iitr/resources) | Curated resources for Consult, Product, and Analytics |
+
+
 **SocBiz IITR** is a student organization at IIT Roorkee focused on developing proficient problem solvers in the realms of **Consulting, Product Management, and Data Analytics**. Established in 2009 and rebranded in 2023, SocBiz IITR has consistently fostered an environment that encourages the exploration and application of business acumen to real-world challenges.
 
 Our mission is to cultivate a community of professionals well-equipped with the skills and mindset to lead in consulting and management fields. We collaborate with industry leaders, engage in impactful projects, and offer a platform for students to learn, experiment, and excel.
