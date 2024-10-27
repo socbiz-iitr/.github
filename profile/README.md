@@ -3,7 +3,7 @@
 
 **SocBiz IITR** is a student organization at IIT Roorkee focused on developing proficient problem solvers in the realms of **Consulting, Product Management, and Data Analytics**. Established in 2009 and rebranded in 2023, SocBiz IITR has consistently fostered an environment that encourages the exploration and application of business acumen to real-world challenges.
 
-Our mission is to cultivate a robust community of professionals well-equipped with the skills and mindset to lead in consulting and management fields. We collaborate with industry leaders, engage in impactful projects, and offer a platform for students to learn, experiment, and excel.
+Our mission is to cultivate a community of professionals well-equipped with the skills and mindset to lead in consulting and management fields. We collaborate with industry leaders, engage in impactful projects, and offer a platform for students to learn, experiment, and excel.
 
 ![image](https://github.com/user-attachments/assets/0b4927c5-6caf-4b2b-9f55-4da5b75eeacf)
 
