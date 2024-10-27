@@ -34,29 +34,6 @@
 
 ---
 
-## Fields of Expertise
-
-### Consulting
-Consulting at SocBiz IITR entails structured problem-solving across various sectors, including:
-   - **Strategy/Management Consulting**
-   - **IT Consulting**
-   - **Social/Impact Consulting**
-
-We emphasize frameworks like **MECE** and **The Hypothesis Approach** to equip members with strategic analysis tools essential for tackling complex business problems.
-
-### Product Management
-Our Product Management vertical focuses on:
-   - **Customer Understanding**: Building empathy and knowledge about user pain points and needs.
-   - **Market Knowledge**: Tracking industry trends and competitor actions to craft innovative solutions.
-   - **Data and Analytics**: Utilizing data to validate and inform product decisions.
-
-### Data Analytics
-Data Analytics at SocBiz IITR enables students to discover, interpret, and communicate data insights effectively. The curriculum includes:
-   - **Descriptive, Diagnostic, Predictive, and Prescriptive Analytics**
-   - **Analytical Tools and Skills**: Using statistical and machine learning tools to enhance data interpretation and decision-making.
-
----
-
 ## Achievements and Legacy
 
    - **Global Case Competitions**: Winner in various international case competitions.
