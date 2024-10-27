@@ -1,4 +1,3 @@
-# SocBiz IITR
 
 ### The Society of Business at IIT Roorkee
 
@@ -67,4 +66,3 @@ Data Analytics at SocBiz IITR enables students to discover, interpret, and commu
 
 Stay updated on our blog series, achievements, and event announcements. Join us on our mission to build the next generation of business leaders and innovators at IIT Roorkee.
 
----
