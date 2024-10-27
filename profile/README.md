@@ -1,7 +1,6 @@
 
 ## The Society of Business at IIT Roorkee
 
----
 
 ## Overview
 
