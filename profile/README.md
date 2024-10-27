@@ -1,5 +1,5 @@
 
-### The Society of Business at IIT Roorkee
+## The Society of Business at IIT Roorkee
 
 ---
 
