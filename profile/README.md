@@ -10,6 +10,9 @@
 
 Our mission is to cultivate a robust community of professionals well-equipped with the skills and mindset to lead in consulting and management fields. We collaborate with industry leaders, engage in impactful projects, and offer a platform for students to learn, experiment, and excel.
 
+![image](https://github.com/user-attachments/assets/0b4927c5-6caf-4b2b-9f55-4da5b75eeacf)
+
+
 ---
 
 ## Our Initiatives and Activities
