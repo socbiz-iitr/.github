@@ -5,9 +5,9 @@
 
    | Repository | Description |
    |------------|-------------|
-   | [Analytics](https://github.com/socbiz-iitr/analytics24-25) | Resources and projects for Analytics team 2024-25 |
-   | [Consulting](https://github.com/socbiz-iitr/consult24-25) | Consulting projects and resources for 2024-25 |
-   | [Product Management](https://github.com/socbiz-iitr/product24-25) | Product Management learning resources and case studies |
+   | [Analytics](https://github.com/socbiz-iitr/analytics24-25) | Resources and Projects for Data Analytics |
+   | [Consulting](https://github.com/socbiz-iitr/consult24-25) | Projects and Resources for Consult |
+   | [Product Management](https://github.com/socbiz-iitr/product24-25) | Resources and Projects for Product Management |
    | [Resources](https://github.com/socbiz-iitr/resources) | Curated resources for Consult, Product, and Analytics |
 
 ---
