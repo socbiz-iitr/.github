@@ -5,10 +5,10 @@
 
    | Repository | Description |
    |------------|-------------|
-   | [Analytics](https://github.com/socbiz-iitr/analytics24-25) | Resources and Projects for Data Analytics |
-   | [Consulting](https://github.com/socbiz-iitr/consult24-25) | Projects and Resources for Consult |
-   | [Product Management](https://github.com/socbiz-iitr/product24-25) | Resources and Projects for Product Management |
-   | [Resources](https://github.com/socbiz-iitr/resources) | Curated resources for Consult, Product, and Analytics |
+   | [Analytics](https://github.com/socbiz-iitr/public-repo/tree/main/resources/data-analytics) | Resources and Projects for Data Analytics |
+   | [Consulting](https://github.com/socbiz-iitr/public-repo/tree/main/resources/consulting) | Projects and Resources for Consult |
+   | [Product Management](https://github.com/socbiz-iitr/public-repo/tree/main/resources/product-management) | Resources and Projects for Product Management |
+   | [Resources](https://github.com/socbiz-iitr/public-repo/tree/main/resources) | Curated resources for Consult, Product, and Analytics |
 
 ---
 
