@@ -1,6 +1,8 @@
 
 ## The Society of Business at IIT Roorkee
 
+Access the [Public Repo](https://github.com/socbiz-iitr/public-repo) for resources, workshop lectures, guesstimates and case studies.
+
 ### Repository Overview
 
    | Repository | Description |
